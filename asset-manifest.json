@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Choudharyprem/airbnb/static/css/main.7680a19e.css",
+    "main.js": "/Choudharyprem/airbnb/static/js/main.eeed7b6b.js",
+    "index.html": "/Choudharyprem/airbnb/index.html",
+    "main.7680a19e.css.map": "/Choudharyprem/airbnb/static/css/main.7680a19e.css.map",
+    "main.eeed7b6b.js.map": "/Choudharyprem/airbnb/static/js/main.eeed7b6b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7680a19e.css",
+    "static/js/main.eeed7b6b.js"
+  ]
+}
